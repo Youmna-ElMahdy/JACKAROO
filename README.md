@@ -12,7 +12,8 @@ Jackaroo is a beloved strategic board/card game with deep roots in Middle Easter
 > 🎯 **Goal:** Move all 4 of your marbles from your Home Zone to your Safe Zone before any opponent does.
 ---
 <div align="center">
-⚙️ Game Dynamics
+  
+⚙️ Game Dynamics 
 🔄 Rounds consist of 4 turns per player in clockwise order
 🃏 Each player is dealt 4 cards at the start of every round
 🤖 CPU players randomly select and execute cards each turn
