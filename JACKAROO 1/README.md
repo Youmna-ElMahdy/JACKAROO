@@ -72,45 +72,7 @@ The project follows an **OOP architecture** with optional **MVC pattern** for th
 🎮 Controller → Handles player input and bridges View ↔ Model
 ```
 
----
 
-
-
-
----
-
-
-```
-
-```
-
----
-
-
-
-
-
----
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
----
 
 
 
