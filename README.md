@@ -10,7 +10,7 @@
 ![GUI](https://img.shields.io/badge/GUI-JavaFX-teal)
 
   
-Built as part of *CSEN 401 — Computer Programming Lab*, Spring 2025.
+
 
 </div>
 
