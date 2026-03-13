@@ -1,9 +1,6 @@
 🃏 Jackaroo: A New Game Spin
 
-📖 Table of Contents
-📌 Overview
-🎮 Game Description
-🏗️ Architecture
+
 
 
 ---
@@ -11,7 +8,7 @@
 Jackaroo is a beloved strategic board/card game with deep roots in Middle Eastern culture. This project reimagines it as a single-player experience, where one human player competes against 3 CPU opponents, using a custom-designed deck with new rules and mechanics.
 > 🎯 **Goal:** Move all 4 of your marbles from your Home Zone to your Safe Zone before any opponent does.
 ---
-<div align="center">  
+<div align="left">  
 ⚙️ Game Dynamics 
 🔄 Rounds consist of 4 turns per player in clockwise order
   
