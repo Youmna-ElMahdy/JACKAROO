@@ -1,15 +1,5 @@
 🃏 Jackaroo: A New Game Spin
-<div align="center">
-![Version](https://img.shields.io/badge/version-1.0.0-purple)
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Course](https://img.shields.io/badge/course-CSEN%20401-blue)
-![University](https://img.shields.io/badge/university-GUC-orange)
-![Language](https://img.shields.io/badge/language-Java-red)
-![GUI](https://img.shields.io/badge/GUI-JavaFX-teal)
-A single-player reimagining of the classic Middle Eastern board game Jackaroo.  
-Built as part of CSEN 401 — Computer Programming Lab, Spring 2025.
-</div>
----
+
 📖 Table of Contents
 📌 Overview
 🎮 Game Description
