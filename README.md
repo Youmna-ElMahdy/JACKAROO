@@ -11,7 +11,7 @@
 Jackaroo is a beloved strategic board/card game with deep roots in Middle Eastern culture. This project reimagines it as a single-player experience, where one human player competes against 3 CPU opponents, using a custom-designed deck with new rules and mechanics.
 > 🎯 **Goal:** Move all 4 of your marbles from your Home Zone to your Safe Zone before any opponent does.
 ---
-
+<div align="center">
 ⚙️ Game Dynamics
 🔄 Rounds consist of 4 turns per player in clockwise order
 🃏 Each player is dealt 4 cards at the start of every round
@@ -30,10 +30,5 @@ Jackaroo is a beloved strategic board/card game with deep roots in Middle Easter
 The project follows an OOP architecture with optional MVC pattern for the GUI
 ```
 
-
-
----
-
-<div align="center">
 
 </div>
