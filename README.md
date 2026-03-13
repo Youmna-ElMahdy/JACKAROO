@@ -40,7 +40,3 @@ Jackaroo is a beloved strategic board/card game with deep roots in Middle Easter
 ---
 🏗️ Architecture
 The project follows an OOP architecture with optional MVC pattern for the GUI
-```
-
-
-</div>
