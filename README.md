@@ -9,7 +9,7 @@
 ![Language](https://img.shields.io/badge/language-Java-red)
 ![GUI](https://img.shields.io/badge/GUI-JavaFX-teal)
 
-**A single-player reimagining of the classic Middle Eastern board game Jackaroo.**  
+  
 Built as part of *CSEN 401 — Computer Programming Lab*, Spring 2025.
 
 </div>
