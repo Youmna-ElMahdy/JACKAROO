@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.0.0-purple)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Course](https://img.shields.io/badge/course-CSEN%20401-blue)
 ![University](https://img.shields.io/badge/university-GUC-orange)
